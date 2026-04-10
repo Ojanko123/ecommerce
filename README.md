@@ -41,7 +41,6 @@ A reusable `retail_clean` VIEW was created to apply these filters automatically:
 
 ## Key Findings
 
-| Metric | Value |
 Total revenue across the dataset was £20.97M, with a clear seasonal peak in November 2010 (£1.47M). The average order value of £479.95 suggests a predominantly wholesale customer base. Sweden ranked 8th internationally with £91,903 from 19 customers.
 
 - **Strong Q4 seasonality** — revenue nearly triples in October–November vs. low months, driven by Christmas gift purchasing
