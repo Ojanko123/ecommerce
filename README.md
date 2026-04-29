@@ -10,7 +10,7 @@ End-to-end exploratory analysis of a large-scale retail transaction dataset usin
 
 - **Source:** https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci
 - **Size:** 1,067,371 transactions
-- **Period:** December 2009 – December 2011
+- **Period:** December 2009 - December 2011
 - **Columns:** Invoice, StockCode, Description, Quantity, InvoiceDate, Price, CustomerID, Country
 
 ---
