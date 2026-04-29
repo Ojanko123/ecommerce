@@ -17,9 +17,9 @@ End-to-end exploratory analysis of a large-scale retail transaction dataset usin
 
 ## Tools Used
 
-- **PostgreSQL 18** — database and all analysis
-- **pgAdmin 4** — query editor and data import
-- **SQL** — aggregations, subqueries, CTEs, window functions, views
+- **PostgreSQL 18** - database and all analysis
+- **pgAdmin 4** - query editor and data import
+- **SQL** - aggregations, subqueries, CTEs, window functions, views
 
 ---
 
