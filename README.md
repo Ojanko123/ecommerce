@@ -2,7 +2,7 @@
 
 ## Overview
 
-End-to-end exploratory analysis of a large-scale retail transaction dataset using PostgreSQL. The project covers data cleaning, revenue analysis, customer behavior, and product performance — answering real business questions using SQL.
+End-to-end exploratory analysis of a large-scale retail transaction dataset using PostgreSQL. The project covers data cleaning, revenue analysis, customer behavior, and product performance , answering real business questions using SQL.
 
 ---
 
