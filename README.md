@@ -45,7 +45,7 @@ Total revenue across the dataset was £20.97M, with a clear seasonal peak in Nov
 
 - **Strong Q4 seasonality** - revenue nearly triples in October–November vs. low months, driven by Christmas gift purchasing
 - **High average order value (£479.95)** suggests a predominantly B2B/wholesale customer base rather than individual consumers
-- **Top international markets** (excl. UK): Ireland, Netherlands, Germany, France — with Ireland generating £664k from just 5 customers, indicating large wholesale accounts
+- **Top international markets** (excl. UK): Ireland, Netherlands, Germany, France, with Ireland generating £664k from just 5 customers, indicating large wholesale accounts
 - **A small number of products drive most revenue** - top 10 products account for a disproportionate share of total sales
 
 ---
